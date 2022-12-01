@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/zaSAM/Scenes/StartScene.unity
+    guid: 1f494377150196040a0bfa54bc545313
+  - enabled: 1
+    path: Assets/zaSAM/Scenes/Story_S.unity
+    guid: 79e9fb4472c18544393494d83885fea1
+  - enabled: 1
+    path: Assets/zaSAM/Scenes/Pick_S.unity
+    guid: 2a128c3f07e5f924484ce17492f3b7aa
+  - enabled: 1
+    path: Assets/zaSAM/Scenes/Main_S.unity
+    guid: ae8c62f1872d86a488cfc6a2deef6c57
+  - enabled: 1
+    path: Assets/zaSAM/Scenes/Battle_S.unity
+    guid: d99986cc6abb6a248ab904ef7f0f6425
+  m_configObjects: {}
